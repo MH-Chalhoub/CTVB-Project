@@ -1,0 +1,7 @@
+Module mainModule
+	Sub Main()
+		Dim a, b as Integer
+		a=2
+		
+	End Sub
+End Module
